@@ -1,0 +1,21 @@
+{"informante":{
+  "ruc": "3893208",
+  "dv": "3",
+  "nombre": "OJEDA AZOCAR VERENA MAILLEN",
+  "tipoContribuyente": "FISICO",
+  "tipoSociedad": null,
+  "nombreFantasia": null,
+  "obligaciones": [
+    {
+      "nombre": "IVA  General",
+      "fechaDesde": "13/02/2013",
+      "impuesto": 211
+    }
+  ],
+  "clasificacion": "FISICO"
+},"identificacion":{
+  "periodo": "2018",
+  "tipoMovimiento": "CON_MOVIMIENTO",
+  "tipoPresentacion": "ORIGINAL",
+  "version": "1.0.2"
+},"ingresos": [],"egresos": [],"familiares": []}
